@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285770190255'] 
+global.owner = ['62895330014743'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285770190255']
+global.kontak = ['62895330014743']
 
 //  INFO BOT 
-global.naown = 'HanzOfc'
-global.noown = '6285770190255'
-global.namebot = 'XiaomiBOT'
-global.nobot = '62857791505013'
+global.naown = 'WisnuSAMP'
+global.noown = '62895330014743'
+global.namebot = 'Wisnu-Md'
+global.nobot = '6283137354143'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/rangga_botz'
-global.github = 'https://github.com/XiaomiBOT'
-global.gc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
+global.github = 'https://github.com/Xiaomi'
+global.gc = 'https://chat.whatsapp.com/IpcNJt03pOq6oMx8ahvGsj'
 global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/XiaomiBOT'
+global.saweria = 'https://saweria.co/Xiaomi'
 
 // PAYMANT 
-global.dana = '085779150501'
-global.pulsa = '085770190255'
-global.gopay = '085779150501'
+global.dana = '083137354143'
+global.pulsa = '083137354143'
+global.gopay = '-'
 global.shopay = '-'
-global.ovo = '085779150501'
+global.ovo = '-no'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
